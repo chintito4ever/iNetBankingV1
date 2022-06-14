@@ -522,3 +522,27 @@
 2022-06-13 20:19:57,095 [main] INFO eBanking - Username is provided
 2022-06-13 20:19:57,131 [main] INFO eBanking - Password is provided
 2022-06-13 20:20:00,140 [main] INFO eBanking - Providing customer details....
+2022-06-13 20:57:46,362 [main] INFO eBanking - URL is opened
+2022-06-13 20:57:46,417 [main] INFO eBanking - Entered username
+2022-06-13 20:57:46,452 [main] INFO eBanking - Entered password
+2022-06-13 20:57:46,713 [main] INFO eBanking - Login test passed
+2022-06-13 20:57:49,154 [main] INFO eBanking - Username provided
+2022-06-13 20:57:49,187 [main] INFO eBanking - Password provided
+2022-06-13 20:57:52,509 [main] INFO eBanking - Login passed
+2022-06-13 20:57:56,077 [main] INFO eBanking - Username provided
+2022-06-13 20:57:56,104 [main] INFO eBanking - Password provided
+2022-06-13 20:57:59,317 [main] INFO eBanking - Login passed
+2022-06-13 20:58:02,931 [main] INFO eBanking - Username provided
+2022-06-13 20:58:02,958 [main] INFO eBanking - Password provided
+2022-06-13 20:58:06,243 [main] INFO eBanking - Login passed
+2022-06-13 20:58:09,948 [main] INFO eBanking - Username provided
+2022-06-13 20:58:09,974 [main] INFO eBanking - Password provided
+2022-06-13 20:58:13,425 [main] INFO eBanking - Username provided
+2022-06-13 20:58:13,484 [main] INFO eBanking - Password provided
+2022-06-13 20:58:18,635 [main] INFO eBanking - Username is provided
+2022-06-13 20:58:18,668 [main] INFO eBanking - Password is provided
+2022-06-13 20:58:20,962 [main] INFO eBanking - Providing customer details....
+2022-06-13 20:58:23,551 [main] INFO eBanking - Email: bpwHa@gmail.com
+2022-06-13 20:58:23,584 [main] INFO eBanking - Password: vcJvNDkS
+2022-06-13 20:58:24,053 [main] INFO eBanking - Validation started...
+2022-06-13 20:58:24,060 [main] INFO eBanking - Test case passed....

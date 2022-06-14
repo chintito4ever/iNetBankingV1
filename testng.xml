@@ -7,7 +7,7 @@
 	</listeners>
 
 	<test thread-count="5" name="Test">
-		<parameter name="browser" value="edge"></parameter>
+		<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<class name="com.inetBanking.testCases.TC_LoginTest_001" />
 			<class name="com.inetBanking.testCases.TC_LoginDDT_002" />

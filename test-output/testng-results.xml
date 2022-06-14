@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="7" passed="5" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-13T19:55:53 EDT" name="iNetBanking" finished-at="2022-06-13T19:57:26 EDT" duration-ms="93730">
+  <suite started-at="2022-06-13T20:57:43 EDT" name="iNetBanking" finished-at="2022-06-13T20:58:24 EDT" duration-ms="40304">
     <groups>
     </groups>
-    <test started-at="2022-06-13T19:55:53 EDT" name="Test" finished-at="2022-06-13T19:57:26 EDT" duration-ms="93730">
-      <class name="com.inetBanking.testCases.TC_AddCustomerTest_003">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_AddCustomerTest_003@35cabb2a]" started-at="2022-06-13T19:57:13 EDT" name="setup" finished-at="2022-06-13T19:57:16 EDT" duration-ms="2915" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="AddNewCustomer()[pri:0, instance:com.inetBanking.testCases.TC_AddCustomerTest_003@35cabb2a]" started-at="2022-06-13T19:57:16 EDT" name="AddNewCustomer" finished-at="2022-06-13T19:57:26 EDT" duration-ms="10198" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AddNewCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_AddCustomerTest_003@35cabb2a]" started-at="2022-06-13T19:57:26 EDT" name="tearDown" finished-at="2022-06-13T19:57:26 EDT" duration-ms="180" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.inetBanking.testCases.TC_AddCustomerTest_003 -->
+    <test started-at="2022-06-13T20:57:43 EDT" name="Test" finished-at="2022-06-13T20:58:24 EDT" duration-ms="40304">
       <class name="com.inetBanking.testCases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@16293aa2]" started-at="2022-06-13T19:55:53 EDT" name="setup" finished-at="2022-06-13T19:55:56 EDT" duration-ms="3686" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@16293aa2]" started-at="2022-06-13T20:57:43 EDT" name="setup" finished-at="2022-06-13T20:57:46 EDT" duration-ms="2436" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[edge]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@16293aa2]" started-at="2022-06-13T19:55:56 EDT" name="loginTest" finished-at="2022-06-13T19:56:39 EDT" duration-ms="42290" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@16293aa2]" started-at="2022-06-13T20:57:46 EDT" name="loginTest" finished-at="2022-06-13T20:57:46 EDT" duration-ms="354" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@16293aa2]" started-at="2022-06-13T19:56:39 EDT" name="tearDown" finished-at="2022-06-13T19:56:39 EDT" duration-ms="196" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginTest_001@16293aa2]" started-at="2022-06-13T20:57:46 EDT" name="tearDown" finished-at="2022-06-13T20:57:46 EDT" duration-ms="67" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.inetBanking.testCases.TC_LoginTest_001 -->
-      <class name="com.inetBanking.testCases.TC_LoginDDT_002">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T19:56:39 EDT" name="setup" finished-at="2022-06-13T19:56:44 EDT" duration-ms="4878" status="PASS">
+      <class name="com.inetBanking.testCases.TC_AddCustomerTest_003">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_AddCustomerTest_003@35cabb2a]" started-at="2022-06-13T20:58:17 EDT" name="setup" finished-at="2022-06-13T20:58:18 EDT" duration-ms="1424" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[edge]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T19:56:44 EDT" name="loginDDT" data-provider="LoginData" finished-at="2022-06-13T19:56:55 EDT" duration-ms="10526" status="PASS">
+        <test-method signature="AddNewCustomer()[pri:0, instance:com.inetBanking.testCases.TC_AddCustomerTest_003@35cabb2a]" started-at="2022-06-13T20:58:18 EDT" name="AddNewCustomer" finished-at="2022-06-13T20:58:24 EDT" duration-ms="5464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_AddCustomerTest_003@35cabb2a]" started-at="2022-06-13T20:58:24 EDT" name="tearDown" finished-at="2022-06-13T20:58:24 EDT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBanking.testCases.TC_AddCustomerTest_003 -->
+      <class name="com.inetBanking.testCases.TC_LoginDDT_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T20:57:46 EDT" name="setup" finished-at="2022-06-13T20:57:48 EDT" duration-ms="1899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T20:57:49 EDT" name="loginDDT" data-provider="LoginData" finished-at="2022-06-13T20:57:56 EDT" duration-ms="6933" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -76,7 +76,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T19:56:55 EDT" name="loginDDT" data-provider="LoginData" finished-at="2022-06-13T19:57:04 EDT" duration-ms="9316" status="PASS">
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T20:57:56 EDT" name="loginDDT" data-provider="LoginData" finished-at="2022-06-13T20:58:02 EDT" duration-ms="6850" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -92,7 +92,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T19:57:04 EDT" name="loginDDT" data-provider="LoginData" finished-at="2022-06-13T19:57:13 EDT" duration-ms="8747" status="PASS">
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T20:58:02 EDT" name="loginDDT" data-provider="LoginData" finished-at="2022-06-13T20:58:09 EDT" duration-ms="6878" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -108,7 +108,123 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginDDT -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T19:57:13 EDT" name="tearDown" finished-at="2022-06-13T19:57:13 EDT" duration-ms="184" status="PASS">
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T20:58:09 EDT" name="loginDDT" data-provider="LoginData" finished-at="2022-06-13T20:58:13 EDT" duration-ms="3617" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[random]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rhj30jf]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.inetBanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:30)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T20:58:13 EDT" name="loginDDT" data-provider="LoginData" finished-at="2022-06-13T20:58:17 EDT" duration-ms="3674" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[random2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fe29812]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.inetBanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:30)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@3a93b025]" started-at="2022-06-13T20:58:17 EDT" name="tearDown" finished-at="2022-06-13T20:58:17 EDT" duration-ms="103" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

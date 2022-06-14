@@ -5,22 +5,15 @@
     <listener class-name="com.inetBanking.utilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="edge"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_AddCustomerTest_003">
+      <class name="com.inetBanking.testCases.TC_LoginDDT_002">
         <methods>
+          <include name="loginDDT" invocation-numbers="3 4"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="AddNewCustomer"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.TC_AddCustomerTest_003 -->
-      <class name="com.inetBanking.testCases.TC_LoginTest_001">
-        <methods>
-          <include name="setup"/>
-          <include name="loginTest"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.inetBanking.testCases.TC_LoginTest_001 -->
+      </class> <!-- com.inetBanking.testCases.TC_LoginDDT_002 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [iNetBanking] -->
