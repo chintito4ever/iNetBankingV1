@@ -9,7 +9,7 @@ import com.inetBanking.utilities.XLUtility;
 
 public class TC_GenerateUserTest_004 extends BaseClass {
 
-	@Test
+	@Test(invocationCount = 3)
 	public void generateUser() throws IOException {
 
 		GenerateUserInfoPage gui = new GenerateUserInfoPage(driver);

@@ -12,12 +12,15 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 import com.inetBanking.utilities.ReadConfig;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 
@@ -32,19 +35,22 @@ public class BaseClass {
 
 	@Parameters("browser")
 	@BeforeClass
-
 	public void setup(String br) {
 		logger = Logger.getLogger("eBanking");
 		PropertyConfigurator.configure("Log4j.properties");
 
 		if (br.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", rc.getDriverPath());
+			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 
 		} else if (br.equals("firefox")) {
 
-			System.setProperty("webdriver.gecko.driver", rc.getFirefoxDriverPath());
+			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
+		}else if (br.equals("edge")) {
+
+			WebDriverManager.edgedriver().setup();
+			driver = new EdgeDriver();
 		}
 
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
