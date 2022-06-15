@@ -546,3 +546,99 @@
 2022-06-13 20:58:23,584 - eBanking -INFO - Password: vcJvNDkS
 2022-06-13 20:58:24,053 - eBanking -INFO - Validation started...
 2022-06-13 20:58:24,060 - eBanking -INFO - Test case passed....
+2022-06-13 21:00:30,462 - eBanking -INFO - URL is opened
+2022-06-13 21:00:30,512 - eBanking -INFO - Entered username
+2022-06-13 21:00:30,545 - eBanking -INFO - Entered password
+2022-06-13 21:00:30,942 - eBanking -INFO - Login test passed
+2022-06-13 21:00:32,750 - eBanking -INFO - Username provided
+2022-06-13 21:00:32,782 - eBanking -INFO - Password provided
+2022-06-13 21:00:36,052 - eBanking -INFO - Login passed
+2022-06-13 21:00:39,645 - eBanking -INFO - Username provided
+2022-06-13 21:00:39,675 - eBanking -INFO - Password provided
+2022-06-13 21:00:42,927 - eBanking -INFO - Login passed
+2022-06-13 21:00:46,507 - eBanking -INFO - Username provided
+2022-06-13 21:00:46,538 - eBanking -INFO - Password provided
+2022-06-13 21:00:49,778 - eBanking -INFO - Login passed
+2022-06-13 21:00:53,385 - eBanking -INFO - Username provided
+2022-06-13 21:00:53,414 - eBanking -INFO - Password provided
+2022-06-13 21:00:56,873 - eBanking -INFO - Username provided
+2022-06-13 21:00:56,901 - eBanking -INFO - Password provided
+2022-06-13 21:01:01,733 - eBanking -INFO - Username is provided
+2022-06-13 21:01:01,768 - eBanking -INFO - Password is provided
+2022-06-13 21:01:04,030 - eBanking -INFO - Providing customer details....
+2022-06-13 21:01:06,906 - eBanking -INFO - Email: rpjoa@gmail.com
+2022-06-13 21:01:06,937 - eBanking -INFO - Password: PNAcJGhM
+2022-06-13 21:01:07,381 - eBanking -INFO - Validation started...
+2022-06-13 21:01:07,388 - eBanking -INFO - Test case passed....
+2022-06-13 21:08:42,633 - eBanking -INFO - URL is opened
+2022-06-13 21:08:42,689 - eBanking -INFO - Entered username
+2022-06-13 21:08:42,725 - eBanking -INFO - Entered password
+2022-06-13 21:08:42,984 - eBanking -INFO - Login test passed
+2022-06-13 21:08:44,756 - eBanking -INFO - Username provided
+2022-06-13 21:08:44,791 - eBanking -INFO - Password provided
+2022-06-13 21:08:48,080 - eBanking -INFO - Login passed
+2022-06-13 21:08:51,617 - eBanking -INFO - Username provided
+2022-06-13 21:08:51,645 - eBanking -INFO - Password provided
+2022-06-13 21:08:54,954 - eBanking -INFO - Login passed
+2022-06-13 21:08:58,645 - eBanking -INFO - Username provided
+2022-06-13 21:08:58,675 - eBanking -INFO - Password provided
+2022-06-13 21:09:01,988 - eBanking -INFO - Login passed
+2022-06-13 21:09:06,003 - eBanking -INFO - Username provided
+2022-06-13 21:09:06,030 - eBanking -INFO - Password provided
+2022-06-13 21:09:09,576 - eBanking -INFO - Username provided
+2022-06-13 21:09:09,605 - eBanking -INFO - Password provided
+2022-06-13 21:09:14,450 - eBanking -INFO - Username is provided
+2022-06-13 21:09:14,484 - eBanking -INFO - Password is provided
+2022-06-13 21:09:16,754 - eBanking -INFO - Providing customer details....
+2022-06-13 21:09:19,372 - eBanking -INFO - Email: jrRLx@gmail.com
+2022-06-13 21:09:19,403 - eBanking -INFO - Password: hfJIrucb
+2022-06-13 21:09:19,824 - eBanking -INFO - Validation started...
+2022-06-13 21:09:19,831 - eBanking -INFO - Test case passed....
+2022-06-13 21:10:05,824 - eBanking -INFO - URL is opened
+2022-06-13 21:10:05,882 - eBanking -INFO - Entered username
+2022-06-13 21:10:05,917 - eBanking -INFO - Entered password
+2022-06-13 21:10:06,212 - eBanking -INFO - Login test passed
+2022-06-13 21:10:07,941 - eBanking -INFO - Username provided
+2022-06-13 21:10:07,974 - eBanking -INFO - Password provided
+2022-06-13 21:10:11,221 - eBanking -INFO - Login passed
+2022-06-13 21:10:14,785 - eBanking -INFO - Username provided
+2022-06-13 21:10:14,812 - eBanking -INFO - Password provided
+2022-06-13 21:10:18,067 - eBanking -INFO - Login passed
+2022-06-13 21:10:21,643 - eBanking -INFO - Username provided
+2022-06-13 21:10:21,671 - eBanking -INFO - Password provided
+2022-06-13 21:10:25,004 - eBanking -INFO - Login passed
+2022-06-13 21:10:28,686 - eBanking -INFO - Username provided
+2022-06-13 21:10:28,713 - eBanking -INFO - Password provided
+2022-06-13 21:10:32,174 - eBanking -INFO - Username provided
+2022-06-13 21:10:32,203 - eBanking -INFO - Password provided
+2022-06-13 21:10:37,020 - eBanking -INFO - Username is provided
+2022-06-13 21:10:37,053 - eBanking -INFO - Password is provided
+2022-06-13 21:10:39,425 - eBanking -INFO - Providing customer details....
+2022-06-13 21:10:42,018 - eBanking -INFO - Email: DUoLF@gmail.com
+2022-06-13 21:10:42,051 - eBanking -INFO - Password: wPL5KjlX
+2022-06-13 21:10:42,449 - eBanking -INFO - Validation started...
+2022-06-13 21:10:42,457 - eBanking -INFO - Test case passed....
+2022-06-13 21:12:58,176 - eBanking -INFO - URL is opened
+2022-06-13 21:12:58,229 - eBanking -INFO - Entered username
+2022-06-13 21:12:58,269 - eBanking -INFO - Entered password
+2022-06-13 21:12:58,570 - eBanking -INFO - Login test passed
+2022-06-13 21:13:00,426 - eBanking -INFO - Username provided
+2022-06-13 21:13:00,460 - eBanking -INFO - Password provided
+2022-06-13 21:13:03,785 - eBanking -INFO - Login passed
+2022-06-13 21:13:07,330 - eBanking -INFO - Username provided
+2022-06-13 21:13:07,359 - eBanking -INFO - Password provided
+2022-06-13 21:13:10,678 - eBanking -INFO - Login passed
+2022-06-13 21:13:14,311 - eBanking -INFO - Username provided
+2022-06-13 21:13:14,341 - eBanking -INFO - Password provided
+2022-06-13 21:13:17,692 - eBanking -INFO - Login passed
+2022-06-13 21:13:21,287 - eBanking -INFO - Username provided
+2022-06-13 21:13:21,314 - eBanking -INFO - Password provided
+2022-06-13 21:13:24,791 - eBanking -INFO - Username provided
+2022-06-13 21:13:24,818 - eBanking -INFO - Password provided
+2022-06-13 21:13:29,763 - eBanking -INFO - Username is provided
+2022-06-13 21:13:29,796 - eBanking -INFO - Password is provided
+2022-06-13 21:13:32,076 - eBanking -INFO - Providing customer details....
+2022-06-13 21:13:34,640 - eBanking -INFO - Email: rrHtc@gmail.com
+2022-06-13 21:13:34,669 - eBanking -INFO - Password: ZeUZbxdq
+2022-06-13 21:13:35,086 - eBanking -INFO - Validation started...
+2022-06-13 21:13:35,093 - eBanking -INFO - Test case passed....
